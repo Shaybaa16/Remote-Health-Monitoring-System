@@ -1,0 +1,5 @@
+Dr.Tariq Hussain,101,Cardiologist
+Dr.Aisha Khan,1234,Endocrinologist
+Dr.Asim Raza,2314,Orthopedist
+Dr.Samina Ahmed,4321,Psychiatrist
+Dr.Farooq Malik,1423,Gastroenterologist

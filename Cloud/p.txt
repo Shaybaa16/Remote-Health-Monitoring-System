@@ -1,0 +1,13 @@
+Patient Name,Patient ID,Gender
+Ali,1,45,M
+Ahmed,1111,45,M
+Anousha,101,45,F
+Fatima,1011,32,F
+Fariha,11,32,F
+Farhan,110,32,M
+Rashid,165,60,M
+Idrees,144,60,M
+Ayesha,121,60,F
+Zainab,3201,28,F
+Zain,2131,28,M
+Zunaira,2101,28,F

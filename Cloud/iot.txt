@@ -1,0 +1,11 @@
+BMI,Blood Pressure,Oxygen Saturation,Pulse Rate,Tremor Indicator,Movement Sensor
+18,180/94,96,75,yes,no
+23,118/74,97,85,no,yes
+25,135/80,99,92,no,yes
+28,125/70,98,81,yes,no
+22,128/72,96,77,yes,no
+19,142/75,96,78,no,yes
+27,112/65,98,88,no,yes
+21,133/70,99,87,no,no
+24,145/78,95,90,no,yes
+26,120/68,97,79,yes,no
